@@ -110,10 +110,6 @@ nav.navbar.bootsnav.no-background {
     border: none;
 }
 
-nav .container{
-	margin:0;
-}
-
 nav.navbar.bootsnav {
     background-color: #fff;
     border-bottom: transparent;
